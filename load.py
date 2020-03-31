@@ -5,9 +5,9 @@ import random
 
 
 
-datadir = "/home/sanchit/Documents/Machine Learing/Datasets/PetImages"
+datadir = "/petimages"
 
-cats = ["Dog", "Cat"]
+cats = ["Dogs", "Cats"]
 training_data = []
 
 def create_training_data():
